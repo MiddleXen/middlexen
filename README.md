@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">MiddleXen</h1>
 
-<!--
-**MiddleXen/middlexen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=middlexen&theme=transparent&hide_border=true&locale=ru" alt="GitHub Streak"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Hi, I'm a C# and Java developer from Russia<br>Currently improving my skills and working on personal projects.
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/middlexen) [![Telegram](https://img.shields.io/badge/Telegram-%230db7ed.svg?logo=telegram&logoColor=white)](https://t.me/middlexen) 
+
+# 💻 Tech Stack:
+
+<table width="100%">
+<tr>
+
+<td align="center" width="25%">
+
+### Langs
+<img src="https://skillicons.dev/icons?i=dotnet,cs,java,bash" />
+
+</td>
+
+<td align="center" width="25%">
+
+### Frameworks / Tools
+<img src="https://skillicons.dev/icons?i=unity,gradle,maven,docker,git" />
+
+</td>
+
+<td align="center" width="25%">
+
+### Software
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider" />
+
+</td>
+
+<td align="center" width="25%">
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+
+</td>
+
+</tr>
+</table>
