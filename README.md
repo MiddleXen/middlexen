@@ -11,7 +11,7 @@
 </p>
 
 # 💫 About Me:
-Hi, I'm a C# and Java developer from Russia<br>Currently improving my skills and working on personal projects.
+Hi, I'm a C# and Java developer from Russia<br>My name: Maksim<br>Currently improving my skills and working on personal projects.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1192085130261573732) [![Telegram](https://img.shields.io/badge/Telegram-%230db7ed.svg?logo=telegram&logoColor=white)](https://t.me/middlexen) 
