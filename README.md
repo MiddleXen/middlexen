@@ -45,7 +45,7 @@ Hi, I'm a C# and Java developer from Russia<br>My name: Maksim<br>Currently impr
 <td align="center" width="25%">
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 </td>
 
