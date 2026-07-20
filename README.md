@@ -5,8 +5,8 @@
   </a>
 </p>
 <p align="center">
+  <a href="https://t.me/middlexen"><img src="https://img.shields.io/badge/Telegram-%230db7ed.svg?logo=telegram&logoColor=white"/></a>  
   <a href="https://discord.com/users/1192085130261573732"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
-  <a href="https://t.me/middlexen"><img src="https://img.shields.io/badge/Telegram-%230db7ed.svg?logo=telegram&logoColor=white"/></a>
 </p>
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
