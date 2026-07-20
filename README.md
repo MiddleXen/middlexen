@@ -16,10 +16,10 @@
   <img src="https://skillicons.dev/icons?i=unity,gradle,maven,docker,git" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,rider" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 <img width="100%" src="assets/github-snake.svg" alt="snake"/>
